@@ -6,3 +6,4 @@
  - click on Allowed View panes content
  - Check the box of the view you want to add in panels
 Note: It might be nessesary to create a "Content pane" view of the view you want to add.
+http://drupal.stackexchange.com/questions/26533/adding-a-view-to-a-panel
